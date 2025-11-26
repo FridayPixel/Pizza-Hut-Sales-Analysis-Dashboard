@@ -4,7 +4,7 @@ A Power BI dashboard built using Pizza Hut sales data to analyze revenue, orders
 The report uses structured DAX calculations to provide insights into category trends, size contribution, monthly and daily behaviour, and top-selling pizzas.
 
 📌 #Project Summary
-![Dashboard](./dashboard.png)
+![Dashboard](./https://github.com/FridayPixel/Pizza-Hut-Sales-Analysis-Dashboard/blob/main/Pizza%20hut%20sales%20Analysis%20.png)
 
 
 This dashboard helps answer key business questions like:
